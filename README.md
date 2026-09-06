@@ -1,3 +1,4 @@
+🔗 **[Voir l'application en ligne](https://prediction-diabete-ml-ipnyndt7dbg6qfjqsrmyyn.streamlit.app)**
 # 🩺 Prédiction de la progression du diabète
 
 Projet de Machine Learning (régression) réalisé dans le cadre de mon BTS SIO option IA — prédiction du score de progression du diabète chez un patient sur 1 an, à partir de 10 indicateurs médicaux.
